@@ -1,8 +1,7 @@
 # 🚀 Laravel Discord Webhook
 
 [![Latest Stable Version](https://img.shields.io/packagist/v/koeker/laravel-discord-notification.svg)](https://packagist.org/packages/koeker/laravel-discord-notification)
-[![Total Downloads](https://img.shields.io/packagist/dt/koeker/laravel-discord-notification.svg)](https://packagist.org/packages/koeker/laravel-discord-notification)
-[![License](https://img.shields.io/packagist/l/koeker/laravel-discord-notification.svg)](https://packagist.org/packages/koeker/laravel-discord-notification)
+[![Total Downloads](https://img.shields.io/packagist/dt/koeker/laravel-discord-notification.svg?style=flat-square)](https://packagist.org/packages/koeker/laravel-discord-notification)
 
 A lightweight and simple Laravel package for sending Discord webhook embeds. Perfect for monitoring, alerts, and notifications.
 
